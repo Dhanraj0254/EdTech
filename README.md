@@ -89,3 +89,4 @@ Database: MongoDB Atlas for database hosting.
 This infrastructure ensures scalability, security, and reliability.
 
 Thank you for using StudyNotion!
+
